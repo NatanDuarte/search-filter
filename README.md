@@ -6,6 +6,8 @@ Search filter component using Typescript and and demonstration using [Dummy api 
 
 ![preview image](./project-assets/image-01.png "preview image")
 
+## Take a look at the [demo video](https://youtu.be/XfZUARmIpGI)
+
 ## Things I've learned
 
 * Tailwind css basics;
